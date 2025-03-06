@@ -14,7 +14,7 @@ This is my setup for transferring code to the PIC16.
 - MPLAB X IDE v6.20 (XC8 compiler since I'm coding in C)
     - Use the provided main file from the RII repo at the top.
     - To test if you have enough space, try Build Main Project.
-    - **BEFORE YOU UPLOAD**, go to Project Settings > PICkit3 > Power and set it to 3.75V. Don't fry it!
+    - **BEFORE YOU UPLOAD**, go to Project Settings > PICkit3 > Power and set it to 3.75V. (The manual for the chip says 5V though, but I'm not sure.)
     - When you're ready, attach the PICkit3 and press the big download button labelled "Make and Program Device Main Project" 
 - A PICkit3 and 5 jumper cables
     - The pinouts on the chip and PICkit are mismatched. Read the labels on both to connect the jumpers.
