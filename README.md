@@ -1,5 +1,8 @@
 *See https://github.com/crand6/RII-Badge for the files and context I had during this venture.*
 
+<img width="1024" height="1024" alt="ChatGPT Image Jul 31, 2025, 01_55_22 AM" src="https://github.com/user-attachments/assets/64c51728-e555-400b-a529-997a76bd3515" />
+
+
 # LED Patterns for a PCB Badge!
 Full disclosure, this is my first ever time working with embedded; never even used an Arduino or RasPI before. 
 
